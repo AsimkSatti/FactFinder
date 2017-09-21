@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "First Extensoion",
+  "description": "Chromeie",
+
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "image.png",
+    "default_title": "first Extension",
+    "default_popup": "chrome.html"
+
+  },
+
+  "permissions": ["tabs","activeTab" ]
+
+
+}
+
+
+
+
