@@ -1,1 +1,3 @@
-# FactFinder
+# FactFinder: A Google Chrome Extension by Asim Satti & William Uchegbu
+When conducting research one often comes along long articles or complete notes for that matter and are not able or willing to read the entire passage for the desired information. A page finder matched with facts- FactFinder parses through the entire page quickly and displays in a user friendly format highlighted facts from the page effectively skimming for the information. 
+Disclaimer: It does not display all facts on a page it uses a sophisticated algorithm ensuring that only facts displayed within FactFinder yet not all facts from the page could possibly be placed. Does not substitute reading.
